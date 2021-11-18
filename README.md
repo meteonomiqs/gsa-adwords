@@ -1,4 +1,4 @@
-# {TODO: PRODUCT NAME} - adwords tag
+# WeatherTag4Search - adwords tag
 
 Google Tag Manager (GTM) Solution for improving Google Search adwords conversions using high quality weather
 provided by https://wetter.com
